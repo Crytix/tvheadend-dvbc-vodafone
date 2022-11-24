@@ -1,1 +1,1 @@
-# tvheadend-dvbc-vodafone
+# Scan Tables Vodafone (tvheadend)
